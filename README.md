@@ -2,6 +2,7 @@
 
 ### Software Engineer | ERP & SaaS Developer | AI Enthusiast
 
+[![LinkHub](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://tomotomo.id)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahyu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wahyu-tri-utomo/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-tomotomo.id-blueviolet?style=flat-square&logo=readthedocs)](https://portfolio.tomotomo.id)
 

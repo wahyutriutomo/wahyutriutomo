@@ -1,10 +1,9 @@
 # Hi there, I'm Wahyu 👋
 
-### Software Engineer | ERP & SaaS Developer | AI Enthusiast
+### Software Engineer | SaaS & ERP Enthusiast | AI Explorer
 
-[![LinkHub](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://tomotomo.id)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wahyu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wahyu-tri-utomo/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-tomotomo.id-blueviolet?style=flat-square&logo=readthedocs)](https://portfolio.tomotomo.id)
+[![ConnectWithMe](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://hub.tomotomo.id)
+[![FreeOnlineAccounting](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://balanz.tomotomo.id)
 
 ---
 
@@ -31,10 +30,10 @@ I enjoy architecting backend solutions, simplifying complex business workflows, 
 ## Featured Projects
 
 - **ERP System**  
-  Custom ERP solution for multi-tenant businesses with integration to Microsoft Dynamics NAV and Business Central.
+  Custom ERP solution for businesses with Microsoft Dynamics NAV / Business Central and Odoo.
 
 - **SaaS Platform**  
-  Scalable SaaS platform built with multi-tenant architecture and advanced features.
+  Scalable SaaS platform built with multi-tenant architecture.
 
 - **Ebclick Manulife**  
   A digital platform providing consulting and transaction services for Manulife DPLK (Financial Institution Pension Fund) customers.
@@ -54,7 +53,7 @@ I enjoy architecting backend solutions, simplifying complex business workflows, 
 - **Fleet Management System**  
   Android-based fleet control system for mining operations with remote instruction capabilities.
 
-- **Tourism Industry POS**  
+- **POS**  
   Point of Sale system integrated with gate access, e-money, locker booking, and F&B services.
 
 - **Tax & Accounting Portal - Astra International**  
@@ -67,10 +66,9 @@ I enjoy architecting backend solutions, simplifying complex business workflows, 
 
 ## Connect with Me
 
-- Personal Link Hub: [https://tomotomo.id](https://tomotomo.id)
+- My Link Hub: [https://tomotomo.id](https://tomotomo.id)
 - LinkedIn: [https://www.linkedin.com/in/wahyu-tri-utomo/](https://www.linkedin.com/in/wahyu-tri-utomo/)  
 - Portfolio: [https://portfolio.tomotomo.id](https://portfolio.tomotomo.id)  
-- Blog: [https://blog.tomotomo.id](https://blog.tomotomo.id)
 
 ---
 

@@ -66,7 +66,7 @@ I enjoy architecting backend solutions, simplifying complex business workflows, 
 
 ## Connect with Me
 
-- My Link Hub: [https://tomotomo.id](https://tomotomo.id)
+- My Link Hub: [https://hub.tomotomo.id](https://hub.tomotomo.id)
 - LinkedIn: [https://www.linkedin.com/in/wahyu-tri-utomo/](https://www.linkedin.com/in/wahyu-tri-utomo/)  
 - Portfolio: [https://portfolio.tomotomo.id](https://portfolio.tomotomo.id)  
 

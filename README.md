@@ -3,7 +3,7 @@
 ### Software Engineer | SaaS & ERP Enthusiast | AI Explorer
 
 [![ConnectWithMe](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://hub.tomotomo.id)
-[![FreeOnlineAccounting](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=linktree)](https://balanz.tomotomo.id)
+[![FreeOnlineAccounting](https://img.shields.io/badge/LinkHub-tomotomo.id-blueviolet?style=flat-square&logo=web)](https://balanz.tomotomo.id)
 
 ---
 

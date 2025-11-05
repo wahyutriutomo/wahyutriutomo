@@ -1,6 +1,6 @@
 # Hi there, I'm Wahyu 👋
 
-### Software Engineer | SaaS & ERP Enthusiast | AI Explorer
+### System Analyst | ERP Consultant
 
 [![ConnectWithMe](https://img.shields.io/badge/ConnectWithMe-Hub-blueviolet?style=flat-square&logo=linktree)](https://hub.tomotomo.id)
 [![FreeOnlineAccounting](https://img.shields.io/badge/FreeOnlineAccounting-balanz.tomotomo.id-blueviolet?style=flat-square&logo=web)](https://balanz.tomotomo.id)

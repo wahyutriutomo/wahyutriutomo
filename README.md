@@ -9,28 +9,16 @@
 
 ## About Me
 
-With 8 years of hands-on experience in software development, I started my journey with PHP and mobile apps, grew into .NET and Node.js development, and in the last few years found a strong interest in ERP and SaaS systems.
+I help businesses optimize their operations through ERP implementation and enterprise system integration.
 
-I enjoy architecting backend solutions, simplifying complex business workflows, and building systems that scale. Now, I’m preparing to take my next step: specializing in AI to unlock even more intelligent and adaptive software.
-
----
-
-## Skills & Tools
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-d82c20?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+With 9+ years in technology and 3.5+ years specializing in ERP consulting (approaching 4 years), my career has been a journey of continuous evolution, from software engineer, to technical lead, to system analyst and ERP consulting. This progression, spanning nearly a decade, gives me something unique: I understand both the technical implementation and the business value.
 
 ---
 
 ## Featured Projects
 
-- **ERP System**  
-  Custom ERP solution for businesses with Microsoft Dynamics NAV / Business Central and Odoo.
+- **ERP Implementation**  
+  Implement & custom ERP solution for businesses with Microsoft Dynamics NAV / Business Central and Odoo.
 
 - **SaaS Platform**  
   Scalable SaaS platform built with multi-tenant architecture.
